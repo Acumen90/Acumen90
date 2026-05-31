@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
+I'm Chijioke Okeke.
+🌱 Currently learning Python, AI and Machine Learning
 
-<!--
-**Acumen90/Acumen90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at TechRise Factory Nigeria
 
-Here are some ideas to get you started:
+💻 Building my first projects on GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goal: Become an AI/ML Engineer
+
+## Currently Learning
+- Python
+- Git & GitHub
+- Data Analysis
+- Machine Learning Fundamentals
+
+## Current Project
+- Python Learning Journey
+
+## Connect With Me
+- GitHub: @Acumen90
